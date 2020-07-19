@@ -2,6 +2,7 @@
 Site para testar e treinar desenvolvimento web
 <hr>
 Integrantes:
-<li> @DhellionFena
-<li> @FernandaSayuriHirata
-<li> @ruamapeixoto
+<li> @DhellionFena - Antônio
+<li> @FernandaSayuriHirata - Fernanda
+<li> @ruamapeixoto - Ruama
+  
